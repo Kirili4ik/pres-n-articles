@@ -1,7 +1,7 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
-**Gradient_Estimation_with_Stochastic_Softmax_Tricks.** - presentation, review of Max B. Paulus et al. (NeurIPS 2020). Review made in November 2020. (can also be found @ https://docs.google.com/presentation/d/1gzHozlgx29T2TuRNUW0wILBfrP63gY7wNCV2su6-pHA/edit?usp=sharing)
+**Gradient_Estimation_with_Stochastic_Softmax_Tricks.** - presentation, review of Max B. Paulus et al. (NeurIPS 2020). Review made in November 2020. (can also be found @ https://docs.google.com/presentation/d/1gzHozlgx29T2TuRNUW0wILBfrP63gY7wNCV2su6-pHA)
 
 **corpus_NL2ML_Presentation** - presentation for course work corpus NL2ML. Made for https://github.com/Kirili4ik/NL2ML-corpus (made in 2020) 
 
