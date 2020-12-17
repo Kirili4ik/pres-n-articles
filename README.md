@@ -1,7 +1,7 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
-**Accent spotting** - presentation, review of project @ https://github.com/Kirili4ik/accent-spotting (Dec 2020)
+**Accent spotting** - presentation, review of project https://github.com/Kirili4ik/accent-spotting (Dec 2020). Presentation copy be also find @ https://docs.google.com/presentation/d/1QThL0YQj2-aS9y_ItJT3e31NrB6PkJjs6zM5U0CRFqE
 
 **Gradient_Estimation_with_Stochastic_Softmax_Tricks.** - presentation, review of Max B. Paulus et al. (NeurIPS 2020). Review made in November 2020. (can also be found @ https://docs.google.com/presentation/d/1gzHozlgx29T2TuRNUW0wILBfrP63gY7wNCV2su6-pHA)
 
