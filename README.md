@@ -1,10 +1,10 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
-**Training language GANs from Scratch** - presentation, review of Cyprien de Masson d'Autume, Mihaela Rosca, Jack Rae,  Shakir Mohamed (NeurIPS 2019). Review made in March 2021. (can also be found @ [gdocs](https://docs.google.com/presentation/d/1FeukmDtXGW1q7BILbYi8McTbWs7HussE4ILK0Nm5i48/edit?usp=sharing)
+**Training language GANs from Scratch** - presentation, review of Cyprien de Masson d'Autume, Mihaela Rosca, Jack Rae,  Shakir Mohamed (NeurIPS 2019). Review made in March 2021. (can also be found @ [gdocs](https://docs.google.com/presentation/d/1FeukmDtXGW1q7BILbYi8McTbWs7HussE4ILK0Nm5i48/edit?usp=sharing))
 
 
-**Accent spotting** - presentation, review of project https://github.com/Kirili4ik/accent-spotting (Dec 2020). Presentation can also be found @ [gdocs](https://docs.google.com/presentation/d/1QThL0YQj2-aS9y_ItJT3e31NrB6PkJjs6zM5U0CRFqE)
+**Accent spotting** - presentation, review of project https://github.com/Kirili4ik/accent-spotting (Dec 2020). Presentation can also be found @ [gdocs](https://docs.google.com/presentation/d/1QThL0YQj2-aS9y_ItJT3e31NrB6PkJjs6zM5U0CRFqE))
 
 **Transformer-based Source Code Summarization** - report on my summer project (made in 2020). Includes review of summarization transformer-based methods and implementation of GGNN.
 
