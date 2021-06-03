@@ -1,6 +1,15 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
+
+<details>
+  <summary><b>Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
+  </summary>
+  <a href="https://docs.google.com/presentation/d/1CPpGKa_fV8VHdYyUlyoLdI4NnAnVilKW7imYqdCS-oc/edit?usp=sharing">gdocs link</a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/sm_table.png">
+</details>
+
+
 <details>
   <summary><b>Training language GANs from Scratch</b> - presentation, review of Cyprien de Masson d'Autume, Mihaela Rosca, Jack Rae,  Shakir Mohamed (NeurIPS 2019). Review made in March 2021.
   </summary>
