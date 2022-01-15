@@ -6,6 +6,11 @@ Some of the presentations and articles I took part in. Updates from time to time
 <a href="https://drive.google.com/file/d/1P2mYJP_HDcVCjplAgAW-kus4w7RWXIBJ/view?usp=sharing">gdocs</a>
 
 
+<details>
+  <summary><b> Annotated <a href=https://arxiv.org/abs/2109.07589>CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning</a> paper (Dec 2021).
+  </summary>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/container_annotated.png">
+</details>
 
 <details>
   <summary><b>Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
