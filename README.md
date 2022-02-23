@@ -3,7 +3,7 @@ Some of the presentations and articles I took part in. Updates from time to time
 
 **! My always updated CV 🤗 !**
 <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
-<a href="https://drive.google.com/file/d/1P2mYJP_HDcVCjplAgAW-kus4w7RWXIBJ/view?usp=sharing">gdocs</a>
+<a href="https://drive.google.com/file/d/1WFpVxmNZ_K1rXnZrZ4lfGDCeXVPmSaqP/view">gdocs</a>
 
 
 <details>
