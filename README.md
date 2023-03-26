@@ -13,9 +13,10 @@ Some of the presentations and articles I took part in. Updates from time to time
 </details>
 
 <details>
-  <summary><b>Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
+  <summary><b>[work]±Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
   </summary>
   <a href="https://drive.google.com/file/d/1vbR7nLNA_hZZJr6fQBoqMPby-zwIktsk/view?usp=sharing"> gdocs link for work in PDF</a>
+  
   <a href="https://docs.google.com/presentation/d/1CPpGKa_fV8VHdYyUlyoLdI4NnAnVilKW7imYqdCS-oc/edit?usp=sharing">gdocs link for presentation</a>
   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/sm_table.png">
 </details>
