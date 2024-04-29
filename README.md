@@ -5,15 +5,27 @@ Some of the presentations and articles I took part in. Updates from time to time
 <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
 <a href="https://drive.google.com/file/d/1HfYdN3_KpwFSr2StRJOx-Icu6Tt0JSNE/view">gdocs</a>
 
+<details>
+  <summary><b>[MASTER] Multi-Agent Sales-Tailored Expert Robot</b> - presentation, review of our project from hackathon <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/MASTER_makeathon24.pdf>[MASTER]</a> (Apr 2024). 
+  </summary>
+  <a href="https://docs.google.com/presentation/d/17EWYDY1u8F9WsE5jBrGQN3B3CoExuMBP6Ve4ACz_Q1g/">gdocs link</a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/master_screen.jpeg">
+</details>
 
 <details>
-  <summary><b> Annotated <a href=https://arxiv.org/abs/2109.07589>CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning</a> paper (Dec 2021).
+  <summary><b> Annotated <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/2308.07124_annotated.pdf>OctoPack: Instruction Tuning Code Large Language Models</a> paper (Dec 2023).
+  </summary>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/octocode_screen.jpeg">
+</details>
+
+<details>
+  <summary><b> Annotated <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/2109.07589_annotated.pdf>CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning</a> paper (Dec 2021).
   </summary>
   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/container_annotated.png">
 </details>
 
 <details>
-  <summary><b>[work]±Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
+  <summary><b>Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
   </summary>
   <a href="https://drive.google.com/file/d/1vbR7nLNA_hZZJr6fQBoqMPby-zwIktsk/view?usp=sharing"> gdocs link for work in PDF</a>
   
