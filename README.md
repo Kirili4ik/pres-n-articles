@@ -3,7 +3,7 @@ Some of the presentations and articles I took part in. Updates from time to time
 
 **! My always updated CV 🤗 !**
 <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
-<a href="https://drive.google.com/file/d/1HfYdN3_KpwFSr2StRJOx-Icu6Tt0JSNE/view">gdocs</a>
+<a href="https://drive.google.com/file/d/1LTEahoFRRJxkjnUzhgXF0m7II-88U_N7/view">gdocs</a>
 
 <details>
   <summary><b>[MASTER] Multi-Agent Sales-Tailored Expert Robot</b> - presentation, review of our project from hackathon <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/MASTER_makeathon24.pdf>[MASTER]</a> (Apr 2024). 
