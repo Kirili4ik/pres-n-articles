@@ -6,6 +6,25 @@ Some of the presentations and articles I took part in. Updates from time to time
 <a href="https://drive.google.com/file/d/1LTEahoFRRJxkjnUzhgXF0m7II-88U_N7/view">gdocs</a>
 
 <details>
+  <summary><b>The overview of the State-Space Models </b> - ICML-style review of 3 essential works on SSMs. <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/SSM_overview.pdf> SSM_overview</a> (Jan 2025). 
+  </summary>
+  Three overviewed papers are:
+  <br/>
+    1) <a href="http://arxiv.org/abs/2008.07669">HiPPO: Recurrent Memory with Optimal Polynomial Projections</a> by A. Gu et. al.
+  <br/>
+    2) <a href="https://arxiv.org/abs/2303.06349">Resurrecting Recurrent Neural Networks for Long Sequences</a> by A. Orvieto et. al.
+  <br/>
+    3) <a href="https://arxiv.org/abs/2006.16236">Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention</a> by A. Katharopoulos et. al.
+</details>
+
+<details>  
+  <summary><b>Improving Convolutional Occupancy Networks</b> - Paper describing what we have done in a team during ML43D course at TUM. <a href=https://github.com/achaikova/convolutional_occupancy_networks> Github with improvements</a>. 
+  </summary>
+      We modified ConvONets and improved the results on restoration of 3D objects by 10%. <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/convONets_3d_modifications.pdf> convONets_3d_modifications</a> (Jan 2025). 
+   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/pic3d.png">
+</details>
+
+<details>
   <summary><b>[MASTER] Multi-Agent Sales-Tailored Expert Robot</b> - presentation, review of our project from hackathon <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/MASTER_makeathon24.pdf>[MASTER]</a> (Apr 2024). 
   </summary>
   <a href="https://docs.google.com/presentation/d/17EWYDY1u8F9WsE5jBrGQN3B3CoExuMBP6Ve4ACz_Q1g/">gdocs link</a>
