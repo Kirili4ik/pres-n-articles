@@ -41,6 +41,14 @@ Some of the presentations and articles I took part in. Updates from time to time
 </details>
 
 <details>
+  <summary><b>Implicit Context Condensation for Local SWE Agents</b> - presentation of my Master's Thesis.
+  </summary>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf"> text</a>
+  
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Impicit_context_condensation_for_local_SWE_agents_presentation.pdf">presentation</a>
+</details>
+
+<details>
   <summary><b>Empirical Study of Transformers for Symbolic Mathematics</b> - presentation of my Bachelor's Thesis. Made in 2021.
   </summary>
   <a href="https://drive.google.com/file/d/1vbR7nLNA_hZZJr6fQBoqMPby-zwIktsk/view?usp=sharing"> gdocs link for work in PDF</a>
