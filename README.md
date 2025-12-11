@@ -1,9 +1,6 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
-**! My always updated CV 🤗 !**
-<a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
-<a href="https://drive.google.com/file/d/1LTEahoFRRJxkjnUzhgXF0m7II-88U_N7/view">gdocs</a>
 
 <details>
   <summary><b>The overview of the State-Space Models </b> - ICML-style review of 3 essential works on SSMs. <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/SSM_overview.pdf> SSM_overview</a> (Jan 2025). 
