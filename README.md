@@ -1,6 +1,17 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
+<details>
+  <summary><b>Implicit Context Condensation for Local SWE Agents</b> - presentation of my Master's Thesis. Made in 2025.
+  </summary>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf"> text</a>
+
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Impicit_context_condensation_for_local_SWE_agents_presentation.pdf">presentation</a>
+  
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/Trajectory_Compression_Poster.pdf">poster</a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/motivation-mscthesis.png">
+
+</details>
 
 <details>
   <summary><b>The overview of the State-Space Models </b> - ICML-style review of 3 essential works on SSMs. <a href=https://github.com/Kirili4ik/pres-n-articles/blob/master/SSM_overview.pdf> SSM_overview</a> (Jan 2025). 
