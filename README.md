@@ -6,6 +6,14 @@ Some of the presentations and articles I took part in. Updates from time to time
 <a href="https://drive.google.com/file/d/1ZYGEx2WXaZbG3E9WVDbqT5ctIi5HdraU/view?usp=sharing">gdocs</a>
 
 <details>
+  <summary><b>How to train MoE-LLM in 2026 - presentation.
+  </summary>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/How%20to%20train%20a%20MoE-LLM.pdf"> presentation </a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/moe.png">
+  
+</details>
+
+<details>
   <summary><b>Implicit Context Condensation for Local SWE Agents</b> - presentation of my Master's Thesis. Made in 2025.
   </summary>
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf"> text</a>
