@@ -6,6 +6,16 @@ Some of the presentations and articles I took part in. Updates from time to time
 <a href="https://drive.google.com/file/d/1ZYGEx2WXaZbG3E9WVDbqT5ctIi5HdraU/view?usp=sharing">gdocs</a>
 
 <details>
+  <summary><b>On Problems of Implicit Context Compression for Software Engineering Agents</b> - our paper (April 2026). A shorter version of the work covered in more detail in the <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf">Master's Thesis</a> below.
+  </summary>
+  <a href="https://arxiv.org/abs/2605.11051">arXiv:2605.11051</a>
+
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/On_Problems_of_Implicit_Context_Compression_for_SWE_Agents.pdf">pdf</a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/implicit_context_compression_paper.png">
+
+</details>
+
+<details>
   <summary><b>How to train MoE-LLM in 2026 - presentation.
   </summary>
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/How%20to%20train%20a%20MoE-LLM.pdf"> presentation </a>
