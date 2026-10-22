@@ -32,8 +32,10 @@ Some of the presentations and articles I took part in. Updates from time to time
 </details>
 
 <details>
-  <summary><b>Step-Level LLM Routing for Software Engineering Agents</b> - poster for partial work (early 2026): routing between LLMs at each step of an SWE agent run, with SFT and RL approaches.
+  <summary><b>Step-Level LLM Routing for Software Engineering Agents</b> - poster for partial work (early 2026).
   </summary>
+  Routing between LLMs at each step of an SWE agent run, with SFT and RL approaches.
+  <br/>
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Step_Level_LLM_Routing_poster.pdf"> poster </a>
   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/step_level_llm_routing_poster.png">
 
