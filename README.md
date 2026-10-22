@@ -14,6 +14,16 @@ Some of the presentations and articles I took part in. Updates from time to time
 </details>
 
 <details>
+  <summary><b>Budget Internalisation</b> - poster (Sep 2026). Submitted to ICLR 2027.
+  </summary>
+  The paper itself will be added later.
+  <br/>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Budget_Internalisation_poster.pdf"> poster </a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/budget_internalisation_poster.png">
+
+</details>
+
+<details>
   <summary><b>On Problems of Implicit Context Compression for Software Engineering Agents</b> - our paper <a href="https://arxiv.org/abs/2605.11051">arXiv:2605.11051</a> (April 2026). A shorter version of the work covered in more detail in the <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf">Master's Thesis</a> below.
   </summary>
   
