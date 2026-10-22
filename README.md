@@ -14,14 +14,6 @@ Some of the presentations and articles I took part in. Updates from time to time
 </details>
 
 <details>
-  <summary><b>Step-Level LLM Routing for Software Engineering Agents</b> - poster for partial work: routing between LLMs at each step of an SWE agent run, with SFT and RL approaches.
-  </summary>
-  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/%5BAI_Agents%5D%20Routing.pdf"> poster </a>
-  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/routing_poster.png">
-
-</details>
-
-<details>
   <summary><b>On Problems of Implicit Context Compression for Software Engineering Agents</b> - our paper <a href="https://arxiv.org/abs/2605.11051">arXiv:2605.11051</a> (April 2026). A shorter version of the work covered in more detail in the <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Implicit_context_condensation_for_local_SWE_agents_text.pdf">Master's Thesis</a> below.
   </summary>
   
@@ -37,6 +29,14 @@ Some of the presentations and articles I took part in. Updates from time to time
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/How%20to%20train%20a%20MoE-LLM.pdf"> presentation </a>
   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/moe.png">
   
+</details>
+
+<details>
+  <summary><b>Step-Level LLM Routing for Software Engineering Agents</b> - poster for partial work (early 2026): routing between LLMs at each step of an SWE agent run, with SFT and RL approaches.
+  </summary>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Step_Level_LLM_Routing_poster.pdf"> poster </a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/step_level_llm_routing_poster.png">
+
 </details>
 
 <details>
