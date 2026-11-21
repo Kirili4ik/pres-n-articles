@@ -1,9 +1,11 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
+Check <a href="https://kirillgelvan.com/">kirillgelvan.com</a>( for interactive view :)
+
 **! My always updated CV 🤗 !**
 <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
-<a href="https://drive.google.com/file/d/1ZYGEx2WXaZbG3E9WVDbqT5ctIi5HdraU/view?usp=sharing">gdocs</a>
+<a href="https://kirillgelvan.com/reader/?document=cv">on my website</a>(!)
 
 <details>
   <summary><b>How to be happy 101</b> - presentation (Oct 2026).
