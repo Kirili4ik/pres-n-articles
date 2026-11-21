@@ -1,11 +1,21 @@
 # Presentations and articles
 Some of the presentations and articles I took part in. Updates from time to time
 
-Check <a href="https://kirillgelvan.com/">kirillgelvan.com</a>( for interactive view :)
+Check <a href="https://kirillgelvan.com/">kirillgelvan.com</a> for interactive view :)
 
 **! My always updated CV 🤗 !**
 <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/CV_Kirill_Gelvan.pdf">github</a>;
 <a href="https://kirillgelvan.com/reader/?document=cv">on my website</a>(!)
+
+<details>
+  <summary><b>Budget Internalization: Fixed-Budget RLVR Trades Test-Time Scaling for In-Budget Accuracy</b> - our paper <a href="https://arxiv.org/abs/2611.26172">arXiv:2611.26172</a> (Nov 2026).
+  </summary>
+  Fixed-budget RLVR improves accuracy near the training cap, but can limit the ability to benefit from more test-time tokens. We study this effect across three model families and its transfer to science and coding tasks.
+  <br/>
+  <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Budget_Internalisation.pdf">pdf</a>
+  <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/budget_internalisation_paper.png">
+
+</details>
 
 <details>
   <summary><b>How to be happy 101</b> - presentation (Oct 2026).
@@ -18,7 +28,7 @@ Check <a href="https://kirillgelvan.com/">kirillgelvan.com</a>( for interactive 
 <details>
   <summary><b>Budget Internalisation</b> - poster (Sep 2026). Submitted to ICLR 2027.
   </summary>
-  The paper itself will be added later.
+  The full paper is listed above.
   <br/>
   <a href="https://github.com/Kirili4ik/pres-n-articles/blob/master/Budget_Internalisation_poster.pdf"> poster </a>
   <img src="https://github.com/Kirili4ik/pres-n-articles/blob/master/pictures/budget_internalisation_poster.png">
